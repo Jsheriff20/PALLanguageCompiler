@@ -1,0 +1,13 @@
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\assessment.exe
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\assessment.deps.json
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\assessment.runtimeconfig.json
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\assessment.runtimeconfig.dev.json
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\assessment.dll
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\assessment.pdb
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\Ardkit.dll
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\assessment.csprojAssemblyReference.cache
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\assessment.AssemblyInfoInputs.cache
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\assessment.AssemblyInfo.cs
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\assessment.csproj.CopyComplete
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\assessment.dll
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\assessment\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\assessment.pdb

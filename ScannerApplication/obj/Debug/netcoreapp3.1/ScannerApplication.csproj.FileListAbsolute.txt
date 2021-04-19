@@ -1,0 +1,13 @@
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\ScannerApplication.exe
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\ScannerApplication.deps.json
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\ScannerApplication.runtimeconfig.json
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\ScannerApplication.runtimeconfig.dev.json
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\ScannerApplication.dll
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\ScannerApplication.pdb
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\bin\Debug\netcoreapp3.1\Ardkit.dll
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\ScannerApplication.csprojAssemblyReference.cache
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\ScannerApplication.AssemblyInfoInputs.cache
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\ScannerApplication.AssemblyInfo.cs
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\ScannerApplication.csproj.CopyComplete
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\ScannerApplication.dll
+C:\Users\jacka\Google Drive\Uni work\CMP409 -Languages and Compilers\Practical 4\ScannerApplication\ScannerApplication\obj\Debug\netcoreapp3.1\ScannerApplication.pdb
